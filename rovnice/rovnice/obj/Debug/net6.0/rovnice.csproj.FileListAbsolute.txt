@@ -1,0 +1,15 @@
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\bin\Debug\net6.0\rovnice.exe
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\bin\Debug\net6.0\rovnice.deps.json
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\bin\Debug\net6.0\rovnice.runtimeconfig.json
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\bin\Debug\net6.0\rovnice.dll
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\bin\Debug\net6.0\rovnice.pdb
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.csproj.AssemblyReference.cache
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.AssemblyInfoInputs.cache
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.AssemblyInfo.cs
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.csproj.CoreCompileInputs.cache
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.dll
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\refint\rovnice.dll
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.pdb
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\rovnice.genruntimeconfig.cache
+C:\Users\dan.vokrouhlik\source\repos\rovnice\rovnice\obj\Debug\net6.0\ref\rovnice.dll
