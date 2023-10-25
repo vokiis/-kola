@@ -1,0 +1,14 @@
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\bin\Debug\netcoreapp3.1\sprava_ukolu.exe
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\bin\Debug\netcoreapp3.1\sprava_ukolu.deps.json
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\bin\Debug\netcoreapp3.1\sprava_ukolu.runtimeconfig.json
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\bin\Debug\netcoreapp3.1\sprava_ukolu.runtimeconfig.dev.json
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\bin\Debug\netcoreapp3.1\sprava_ukolu.dll
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\bin\Debug\netcoreapp3.1\sprava_ukolu.pdb
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.AssemblyInfo.cs
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.dll
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.pdb
+C:\Users\Dan\source\repos\sprava_ukolu\sprava_ukolu\obj\Debug\netcoreapp3.1\sprava_ukolu.genruntimeconfig.cache
